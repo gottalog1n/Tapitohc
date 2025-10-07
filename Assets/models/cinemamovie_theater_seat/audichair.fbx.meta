@@ -3,11 +3,21 @@ guid: d01de41ac98dc4b0e94c1d2a9d902746
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: color_blk
+    second: {fileID: 2100000, guid: 56e34522664a848acb1b6a70e74dd624, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: color_brown
+    second: {fileID: 2100000, guid: fe2b24c0422e64846810abf964d64fef, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
-    materialSearch: 1
+    materialSearch: 0
     materialLocation: 1
   animations:
     legacyGenerateAnimations: 4

@@ -2184,7 +2184,8 @@ MonoBehaviour:
   audioSources:
   - {fileID: 1306545316}
   subtitles:
-  - 
+  - "Aight, seems like it\u2019s just a regular door in a regular situation. Totally
+    safe. Nothing suspicious at all. So yeah, genius, go on in."
   audioDelays:
   - 0
   triggerCollider: {fileID: 667757698}
@@ -2319,9 +2320,10 @@ MonoBehaviour:
   - {fileID: 225301919}
   - {fileID: 1668693120}
   subtitles:
-  - 
-  - 
-  - 
+  - "If this was a trap, congrats\u2014he basically gift-wrapped himself."
+  - "But don\u2019t worry\u2014statistically, only most people die in these situations."
+  - "What are you doing? Move. This isn\u2019t PSCP\u2014you can\u2019t just freeze
+    and hope the if-else fixes itself."
   audioDelays:
   - 0
   - 42
@@ -4068,7 +4070,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -4082,13 +4084,14 @@ MonoBehaviour:
     m_BestFit: 0
     m_MinSize: 10
     m_MaxSize: 40
-    m_Alignment: 0
+    m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: New Text
+  m_Text: Come to this pitch-black room, he sees something sparkling in the distance.
+    And of course he walks toward it
 --- !u!222 &1113780735
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -4113,8 +4116,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 160, y: 30}
+  m_AnchoredPosition: {x: 0, y: -153.5822}
+  m_SizeDelta: {x: 443.8669, y: 59.1644}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!43 &1162382649
 Mesh:
@@ -7106,7 +7109,8 @@ MonoBehaviour:
   audioSources:
   - {fileID: 1975559801}
   subtitles:
-  - 
+  - Come to this pitch-black room, he sees something sparkling in the distance. And
+    of course he walks toward it
   audioDelays:
   - 3
   triggerCollider: {fileID: 1849904699}

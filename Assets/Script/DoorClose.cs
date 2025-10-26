@@ -6,6 +6,7 @@ public class DoorClose : MonoBehaviour
 {
     public Animator door;
     public bool isOpen = true;
+    public Collider collider;
     // Start is called before the first frame update
     void Start()
     {
@@ -33,6 +34,7 @@ public class DoorClose : MonoBehaviour
             Debug.Log("It Closes");
             door.SetBool("Open", false);
             door.SetBool("Closed", true);
+            collider.enabled = false;
             //if (closeSound) closeSound.Play();
             isOpen = false;
         }

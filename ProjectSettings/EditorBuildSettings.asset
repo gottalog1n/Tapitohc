@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Condition/scene/else.unity
     guid: 8a6ea599b928f4575b5924b6a945017b
+  - enabled: 1
+    path: Assets/Scenes/Loop.unity
+    guid: d8af003c44a2348578ccf6ada16498ae
   m_configObjects: {}

@@ -66,8 +66,10 @@
   <ItemGroup>
     <Compile Include="Assets\MAT NEW\Mini First Person Controller\Scripts\FirstPersonMovement.cs" />
     <Compile Include="Assets\Condition\Script\ToElseScene.cs" />
+    <Compile Include="Assets\MAT NEW\Fireworks\Firecracker 1\Script\Firecracker1.cs" />
     <Compile Include="Assets\Script\TiggerEnable.cs" />
     <Compile Include="Assets\MAT NEW\Mini First Person Controller\Scripts\Components\FirstPersonAudio.cs" />
+    <Compile Include="Assets\MAT NEW\Fireworks\Rocket 5\Script\Rocket5.cs" />
     <Compile Include="Assets\Script\clickdisabled.cs" />
     <Compile Include="Assets\MAT NEW\Mini First Person Controller\Scripts\Components\Zoom.cs" />
     <Compile Include="Assets\Condition\Script\ToNextScene.cs" />
@@ -80,10 +82,19 @@
     <Compile Include="Assets\MAT NEW\Mini First Person Controller\Scripts\FirstPersonLook.cs" />
     <Compile Include="Assets\MAT NEW\Mini First Person Controller\Scripts\Components\Jump.cs" />
     <Compile Include="Assets\Script\ButtonController.cs" />
+    <Compile Include="Assets\MAT NEW\Fireworks\Rocket 1\Script\Rocket1.cs" />
+    <Compile Include="Assets\MAT NEW\Fireworks\Firecracker 2\Script\Firecracker2.cs" />
     <Compile Include="Assets\Script\clickenabled.cs" />
     <Compile Include="Assets\Script\DoorClose.cs" />
     <Compile Include="Assets\Script\enable.cs" />
     <Compile Include="Assets\Script\MouseLook.cs" />
+    <Compile Include="Assets\MAT NEW\Fireworks\Rocket 2\Script\Rocket2.cs" />
+    <Compile Include="Assets\MAT NEW\Fireworks\Rocket 4\Script\Rocket4.cs" />
+    <Compile Include="Assets\MAT NEW\Fireworks\Firecracker 3\Script\Firecracker3.cs" />
+    <Compile Include="Assets\MAT NEW\Fireworks\Rocket 3\Script\Rocket3.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\models\garage_door\license.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

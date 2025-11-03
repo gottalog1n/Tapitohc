@@ -62847,7 +62847,7 @@ MonoBehaviour:
   interactCount: -100
   speed: 7
   gravity: -9.8
-  jumpHeight: 3
+  jumpHeight: 2.02
   groundCheck: {fileID: 1080379033}
   groundDistance: 0.4
   groundMask:

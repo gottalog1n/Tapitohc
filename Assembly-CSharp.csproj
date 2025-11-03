@@ -64,13 +64,21 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.29f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\MAT NEW\Mini First Person Controller\Scripts\FirstPersonMovement.cs" />
     <Compile Include="Assets\Condition\Script\ToElseScene.cs" />
     <Compile Include="Assets\Script\TiggerEnable.cs" />
+    <Compile Include="Assets\MAT NEW\Mini First Person Controller\Scripts\Components\FirstPersonAudio.cs" />
+    <Compile Include="Assets\Script\clickdisabled.cs" />
+    <Compile Include="Assets\MAT NEW\Mini First Person Controller\Scripts\Components\Zoom.cs" />
     <Compile Include="Assets\Condition\Script\ToNextScene.cs" />
+    <Compile Include="Assets\MAT NEW\Mini First Person Controller\Scripts\Components\Crouch.cs" />
+    <Compile Include="Assets\MAT NEW\Mini First Person Controller\Scripts\Components\GroundCheck.cs" />
     <Compile Include="Assets\Script\FPScontroller.cs" />
     <Compile Include="Assets\Script\disable.cs" />
     <Compile Include="Assets\Script\Door1\Door.cs" />
     <Compile Include="Assets\Script\SoundAnable.cs" />
+    <Compile Include="Assets\MAT NEW\Mini First Person Controller\Scripts\FirstPersonLook.cs" />
+    <Compile Include="Assets\MAT NEW\Mini First Person Controller\Scripts\Components\Jump.cs" />
     <Compile Include="Assets\Script\ButtonController.cs" />
     <Compile Include="Assets\Script\clickenabled.cs" />
     <Compile Include="Assets\Script\DoorClose.cs" />

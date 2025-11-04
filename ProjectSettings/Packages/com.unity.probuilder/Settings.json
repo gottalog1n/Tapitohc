@@ -224,11 +224,7 @@
             {
                 "type": "UnityEngine.Vector3, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
                 "key": "ShapeBuilder.LastSize",
-<<<<<<< HEAD
-                "value": "{\"m_Value\":{\"x\":-4.02184534072876,\"y\":7.208730697631836,\"z\":-1.7035369873046876}}"
-=======
                 "value": "{\"m_Value\":{\"x\":1.4411711692810059,\"y\":0.0443115271627903,\"z\":1.530426025390625}}"
->>>>>>> 2b6eedd (else room + lighting)
             },
             {
                 "type": "UnityEngine.Quaternion, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",

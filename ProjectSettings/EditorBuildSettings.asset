@@ -42,8 +42,11 @@ EditorBuildSettings:
     path: Assets/Loop/Scene/Loop 4.unity
     guid: 598262605de7caf48a101d9e3aa7014b
   - enabled: 1
-    path: Assets/Loop/Scene/Loop 5.unity
+    path: Assets/Loop/Scene/Loop 5.1.unity
     guid: f99be5333776dcb4ebfde72dba4e1e07
+  - enabled: 1
+    path: Assets/Loop/Scene/Loop 5.unity
+    guid: be66818234c8c7248bb25c4a4fc3954d
   - enabled: 1
     path: Assets/Loop/Scene/Loop 6.unity
     guid: d453726413316e4429df363675ca215c

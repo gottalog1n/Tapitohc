@@ -18,6 +18,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Loop.unity
     guid: d8af003c44a2348578ccf6ada16498ae
   - enabled: 1
+<<<<<<< HEAD
     path: Assets/Loop/Scene/Loop 6.unity
     guid: d453726413316e4429df363675ca215c
   - enabled: 1
@@ -35,4 +36,11 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Loop/Scene/Loop 2.unity
     guid: aac5e6631b28f724e9166c7cf6657ac2
+=======
+    path: Assets/Condition/scene/end1.unity
+    guid: 20d574be832914174995db008f490ff8
+  - enabled: 1
+    path: Assets/Scenes/Midterm.unity
+    guid: ec4c67a58cbf14d4ab40b1d453e2e211
+>>>>>>> 269f31f (if room update + end1 room + narrative)
   m_configObjects: {}

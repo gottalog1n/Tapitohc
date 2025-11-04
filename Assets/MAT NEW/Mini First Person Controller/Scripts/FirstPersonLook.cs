@@ -21,6 +21,11 @@ public class FirstPersonLook : MonoBehaviour
     {
         // Lock the mouse cursor to the game screen.
         Cursor.lockState = CursorLockMode.Locked;
+
+        // ตั้งค่าเริ่มต้นตามมุมที่ตั้งใน Editor
+        Vector3 euler = transform.localRotation.eulerAngles;
+        velocity.x = euler.y;
+        velocity.y = -euler.x;
     }
 
     void Update()

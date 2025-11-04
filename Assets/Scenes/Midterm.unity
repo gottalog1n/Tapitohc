@@ -1044,14 +1044,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   subtitleText: {fileID: 1996683593}
   subtitleClips:
-  - audioClip: {fileID: 0}
+  - audioClip: {fileID: 8300000, guid: 5c2f3d85b15d03542bbc0a7b8cd59028, type: 3}
     subtitleMessage: "Welcome to the Midterm room.\r"
     displayDuration: 3
-  - audioClip: {fileID: 0}
+  - audioClip: {fileID: 8300000, guid: 4cd19dc594e338541a0bc94383eee10e, type: 3}
     subtitleMessage: "After you\u2019ve gone through the rooms, I REALLY hope you
       can pass this room."
     displayDuration: 5
-  - audioClip: {fileID: 0}
+  - audioClip: {fileID: 8300000, guid: 7c0b7a5dce42baf4a8dc7358ccd5b6e7, type: 3}
     subtitleMessage: Now, get on that platform.
     displayDuration: 3
 --- !u!65 &609154197
@@ -1548,13 +1548,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   subtitleText: {fileID: 1996683593}
   subtitleClips:
-  - audioClip: {fileID: 0}
+  - audioClip: {fileID: 8300000, guid: c154e49dbc482554eb1b6fca14742fc1, type: 3}
     subtitleMessage: You see those buttons? Pressing them will turn on the lights.
     displayDuration: 4.5
-  - audioClip: {fileID: 0}
+  - audioClip: {fileID: 8300000, guid: 7f0cd7339ac650f4380b2b9e16a77f1d, type: 3}
     subtitleMessage: You just need to press all of them. Sounds easy, right?
     displayDuration: 4
-  - audioClip: {fileID: 0}
+  - audioClip: {fileID: 8300000, guid: 4aba5d5411218884b89f3baab4a0c0b3, type: 3}
     subtitleMessage: "Let\u2019s start with the button on your left."
     displayDuration: 3
 --- !u!65 &882764061
@@ -3453,7 +3453,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 1414a6903b1a33846aac5ae11709380e, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -7885,17 +7885,17 @@ MonoBehaviour:
   subtitleText: {fileID: 1996683593}
   delayBeforeStarting: 4
   subtitleClips:
-  - audioClip: {fileID: 0}
+  - audioClip: {fileID: 8300000, guid: 874640b56d9a079479666ea21b6b2d4e, type: 3}
     subtitleMessage: Wondering why it doesn't work?
     displayDuration: 3
-  - audioClip: {fileID: 0}
+  - audioClip: {fileID: 8300000, guid: 4acb7b822dbea6d4eba0ada2b68606fa, type: 3}
     subtitleMessage: You didn't really think 'HE' would let you get them all, did
       you?
     displayDuration: 4.5
   - audioClip: {fileID: 0}
     subtitleMessage: 
     displayDuration: 2
-  - audioClip: {fileID: 0}
+  - audioClip: {fileID: 8300000, guid: 87efe814f093ad6429d018d7d9ec7577, type: 3}
     subtitleMessage: (Laughs)... You've known him from the very beginning.
     displayDuration: 4
 --- !u!137 &5701873794612770103

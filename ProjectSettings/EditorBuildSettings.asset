@@ -11,4 +11,49 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/TESTTTTTT.unity
     guid: 71c84927b999c7e4d9d98c4632554bc3
+  - enabled: 1
+    path: Assets/Scenes/Condition.unity
+    guid: eadfe35dc57c849a890ae84a5fd8f932
+  - enabled: 1
+    path: Assets/Scenes/Entry.unity
+    guid: 1b969e2fbd6144a238407953f4d3470e
+  - enabled: 1
+    path: Assets/Scenes/Loop.unity
+    guid: d8af003c44a2348578ccf6ada16498ae
+  - enabled: 1
+    path: Assets/Scenes/Midterm.unity
+    guid: ec4c67a58cbf14d4ab40b1d453e2e211
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Condition/scene/else.unity
+    guid: 8a6ea599b928f4575b5924b6a945017b
+  - enabled: 1
+    path: Assets/Condition/scene/end1.unity
+    guid: 20d574be832914174995db008f490ff8
+  - enabled: 1
+    path: Assets/Condition/scene/if.unity
+    guid: 6b8123ae071374cf8b8666c73f89b5ca
+  - enabled: 1
+    path: Assets/Loop/Scene/Loop 2.unity
+    guid: aac5e6631b28f724e9166c7cf6657ac2
+  - enabled: 1
+    path: Assets/Loop/Scene/Loop 3.unity
+    guid: 6c5b037934ec6fa4c9a5983b7d9494f3
+  - enabled: 1
+    path: Assets/Loop/Scene/Loop 4.unity
+    guid: 598262605de7caf48a101d9e3aa7014b
+  - enabled: 1
+    path: Assets/Loop/Scene/Loop 5.unity
+    guid: be66818234c8c7248bb25c4a4fc3954d
+  - enabled: 1
+    path: Assets/Loop/Scene/Loop 5.1.unity
+    guid: f99be5333776dcb4ebfde72dba4e1e07
+  - enabled: 1
+    path: Assets/Loop/Scene/Loop 6.unity
+    guid: d453726413316e4429df363675ca215c
+  - enabled: 1
+    path: Assets/Loop/Scene/Loop 7.unity
+    guid: ddb591db727b95d48a2ad04a28cc80ae
   m_configObjects: {}

@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class colliderDisable : MonoBehaviour
+public class colliderEnabled : MonoBehaviour
 {
     public Collider[] triggerCollider;
     // Start is called before the first frame update
@@ -15,7 +15,7 @@ public class colliderDisable : MonoBehaviour
         {
             foreach (Collider collider in triggerCollider)
             {
-                collider.enabled = false;
+                collider.enabled = true;
             }
         }
     }

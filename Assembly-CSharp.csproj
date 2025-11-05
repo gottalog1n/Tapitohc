@@ -59,7 +59,7 @@
     <UnityVersion>2022.3.62f2</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Analyzer Include="C:\Users\Modern\.vscode\extensions\visualstudiotoolsforunity.vstuc-1.1.3\Analyzers\Microsoft.Unity.Analyzers.dll" />
+    <Analyzer Include="C:\Users\Lenovo\.vscode\extensions\visualstudiotoolsforunity.vstuc-1.1.3\Analyzers\Microsoft.Unity.Analyzers.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.62f2\Editor\Data\Tools\Unity.SourceGenerators\Unity.SourceGenerators.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.62f2\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
@@ -107,6 +107,7 @@
     <Compile Include="Assets\MAT NEW\Fireworks\Rocket 2\Script\Rocket2.cs" />
     <Compile Include="Assets\MAT NEW\Fireworks\Rocket 4\Script\Rocket4.cs" />
     <Compile Include="Assets\MAT NEW\Fireworks\Firecracker 3\Script\Firecracker3.cs" />
+    <Compile Include="Assets\Loop\Script\ToLoop5_5.cs" />
     <Compile Include="Assets\Loop\Script\ToLoop6.cs" />
     <Compile Include="Assets\Script\AudioTrigger.cs" />
     <Compile Include="Assets\MAT NEW\Fireworks\Rocket 3\Script\Rocket3.cs" />

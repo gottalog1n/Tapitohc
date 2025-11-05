@@ -3384,6 +3384,7 @@ GameObject:
   m_Component:
   - component: {fileID: 114584603}
   - component: {fileID: 114584602}
+  - component: {fileID: 114584604}
   m_Layer: 0
   m_Name: _6_
   m_TagString: Untagged
@@ -3502,6 +3503,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 937137450602085049}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!164 &114584604
+AudioReverbFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 114584601}
+  m_Enabled: 1
+  m_DryLevel: 0
+  m_Room: -1000
+  m_RoomHF: -2000
+  m_DecayTime: 5
+  m_DecayHFRatio: 0.5
+  m_ReflectionsLevel: -10000
+  m_ReverbLevel: -1500
+  m_ReverbDelay: 0.04
+  m_Diffusion: 100
+  m_Density: 100
+  m_HFReference: 5000
+  m_RoomLF: 0
+  m_LFReference: 250
+  m_ReflectionsDelay: 0
+  m_ReverbPreset: 27
 --- !u!4 &120480605 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8789507642873204407, guid: 369456f238c2221498ccdf16df24b160, type: 3}
@@ -87968,6 +87992,7 @@ GameObject:
   m_Component:
   - component: {fileID: 463677805}
   - component: {fileID: 463677804}
+  - component: {fileID: 463677806}
   m_Layer: 0
   m_Name: _2_
   m_TagString: Untagged
@@ -88086,6 +88111,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 871661465}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!164 &463677806
+AudioReverbFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 463677803}
+  m_Enabled: 1
+  m_DryLevel: 0
+  m_Room: -1000
+  m_RoomHF: -2000
+  m_DecayTime: 5
+  m_DecayHFRatio: 0.5
+  m_ReflectionsLevel: -10000
+  m_ReverbLevel: -1500
+  m_ReverbDelay: 0.04
+  m_Diffusion: 100
+  m_Density: 100
+  m_HFReference: 5000
+  m_RoomLF: 0
+  m_LFReference: 250
+  m_ReflectionsDelay: 0
+  m_ReverbPreset: 27
 --- !u!1 &464456395
 GameObject:
   m_ObjectHideFlags: 0
@@ -219416,6 +219464,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1441089375}
   - component: {fileID: 1441089374}
+  - component: {fileID: 1441089376}
   m_Layer: 0
   m_Name: _1_
   m_TagString: Untagged
@@ -219534,6 +219583,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 871661465}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!164 &1441089376
+AudioReverbFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1441089373}
+  m_Enabled: 1
+  m_DryLevel: 0
+  m_Room: -1000
+  m_RoomHF: -2000
+  m_DecayTime: 5
+  m_DecayHFRatio: 0.5
+  m_ReflectionsLevel: -10000
+  m_ReverbLevel: -1500
+  m_ReverbDelay: 0.04
+  m_Diffusion: 100
+  m_Density: 100
+  m_HFReference: 5000
+  m_RoomLF: 0
+  m_LFReference: 250
+  m_ReflectionsDelay: 0
+  m_ReverbPreset: 27
 --- !u!1001 &1448634395
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -265300,6 +265372,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1949225796}
   - component: {fileID: 1949225795}
+  - component: {fileID: 1949225797}
   m_Layer: 0
   m_Name: _7_
   m_TagString: Untagged
@@ -265418,6 +265491,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 937137450602085049}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!164 &1949225797
+AudioReverbFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1949225794}
+  m_Enabled: 1
+  m_DryLevel: 0
+  m_Room: -1000
+  m_RoomHF: -2000
+  m_DecayTime: 5
+  m_DecayHFRatio: 0.5
+  m_ReflectionsLevel: -10000
+  m_ReverbLevel: -1500
+  m_ReverbDelay: 0.04
+  m_Diffusion: 100
+  m_Density: 100
+  m_HFReference: 5000
+  m_RoomLF: 0
+  m_LFReference: 250
+  m_ReflectionsDelay: 0
+  m_ReverbPreset: 27
 --- !u!4 &1954390908 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: d280af3b42fb5f04ba881a234d5f1156, type: 3}
@@ -336940,8 +337036,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 0
   serializedVersion: 3
-  m_Size: {x: 76.0922, y: 1, z: 32.370056}
-  m_Center: {x: -22.273441, y: 0, z: -0.75208664}
+  m_Size: {x: 107.4706, y: 1, z: 73.10162}
+  m_Center: {x: -13.523697, y: 0, z: -3.3166656}
 --- !u!23 &2138196456
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -337414,6 +337510,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5396559263726530838}
   - component: {fileID: 5358440046739111731}
+  - component: {fileID: 7269882701725274463}
   m_Layer: 0
   m_Name: _5_
   m_TagString: Untagged
@@ -337421,6 +337518,29 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!164 &7269882701725274463
+AudioReverbFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7269882701725274462}
+  m_Enabled: 1
+  m_DryLevel: 0
+  m_Room: -1000
+  m_RoomHF: -2000
+  m_DecayTime: 5
+  m_DecayHFRatio: 0.5
+  m_ReflectionsLevel: -10000
+  m_ReverbLevel: -1500
+  m_ReverbDelay: 0.04
+  m_Diffusion: 100
+  m_Density: 100
+  m_HFReference: 5000
+  m_RoomLF: 0
+  m_LFReference: 250
+  m_ReflectionsDelay: 0
+  m_ReverbPreset: 27
 --- !u!1 &7516704585671558665
 GameObject:
   m_ObjectHideFlags: 0
@@ -337431,6 +337551,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8556524496759090617}
   - component: {fileID: 4292835846373528594}
+  - component: {fileID: 8556524496759090618}
   m_Layer: 0
   m_Name: _4_
   m_TagString: Untagged
@@ -337497,6 +337618,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 937137450602085049}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!164 &8556524496759090618
+AudioReverbFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7516704585671558665}
+  m_Enabled: 1
+  m_DryLevel: 0
+  m_Room: -1000
+  m_RoomHF: -2000
+  m_DecayTime: 5
+  m_DecayHFRatio: 0.5
+  m_ReflectionsLevel: -10000
+  m_ReverbLevel: -1500
+  m_ReverbDelay: 0.04
+  m_Diffusion: 100
+  m_Density: 100
+  m_HFReference: 5000
+  m_RoomLF: 0
+  m_LFReference: 250
+  m_ReflectionsDelay: 0
+  m_ReverbPreset: 27
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

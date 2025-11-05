@@ -3,9 +3,8 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
-public class ToMidterm: MonoBehaviour
+public class ToTEST: MonoBehaviour
 {
-
     // Start is called before the first frame update
     void Start()
     {
@@ -15,8 +14,11 @@ public class ToMidterm: MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-        SceneManager.LoadScene("Midterm");
+            SceneManager.LoadScene("n");
         }
     }
+    void Update()
+    {
 
+    }
 }
